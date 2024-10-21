@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lopharcum.github.io/lopharcum.txt.gz
+Sitemap: https://lopharcum.github.io/app/lopharcum.txt.gz
+Sitemap: https://lopharcum.github.io/assets/lopharcum.txt.gz
+Sitemap: https://lopharcum.github.io/css/lopharcum.txt.gz
+Sitemap: https://lopharcum.github.io/includes/lopharcum.txt.gz
+Sitemap: https://lopharcum.github.io/item/lopharcum.txt.gz
+Sitemap: https://lopharcum.github.io/src/lopharcum.txt.gz
